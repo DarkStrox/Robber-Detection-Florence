@@ -1,0 +1,9 @@
+{
+    "timestamp": "20260728_163253",
+    "threat_score": 0.9166666666666666,
+    "triggers": [
+        "CONCEALED SUSPECT IN COUNTER ZONE",
+        "REACHING WAISTBAND/POCKET"
+    ],
+    "evidence_image": "incident_logs\\threat_20260728_163253.jpg"
+}

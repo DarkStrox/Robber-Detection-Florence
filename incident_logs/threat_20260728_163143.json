@@ -1,0 +1,9 @@
+{
+    "timestamp": "20260728_163143",
+    "threat_score": 0.9166666666666666,
+    "triggers": [
+        "REACHING WAISTBAND/POCKET",
+        "CONCEALED/MASKED PERSON DETECTED"
+    ],
+    "evidence_image": "incident_logs\\threat_20260728_163143.jpg"
+}

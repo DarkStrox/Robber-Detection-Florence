@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+models/
+Yolo Guns Repo/
+*.pack
+*.safetensors
+*.pt
+*.bin
+input_videos/
+output_videos/
+*.mp4
+*.avi
